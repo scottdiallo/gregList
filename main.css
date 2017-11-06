@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: sans-serif;
 }
 
 #nav-bar {
@@ -38,8 +39,13 @@ input {
     padding: 5px;
 }
 
+label>input {
+    display: inline-block;
+}
+
 .search-jobs {
     padding-bottom: 10px;
+    display: block;
 }
 
 img {
@@ -53,7 +59,7 @@ form {
 .next-prev-page-btn {
     font-size: 0px;
     margin-left: 80px;
-    margin-top: 20px;
+    margin-top: 45px;
     float: left;
     clear: both;
 }
@@ -74,9 +80,8 @@ div>a {
 
 .content {
     margin-left: 80px;
-    margin-top: 105px;
+    margin-top: 220px;
     font-size: 22px;
-    font-family: sans-serif;
 }
 
 label>a {
@@ -99,6 +104,7 @@ label>a {
 .label-input {
     float: left;
     margin-right: 20px;
+    margin-left: 80px;
 }
 
 input,
