@@ -33,8 +33,13 @@ ul li a {
 
 input {
     height: 25px;
-    width: 350px;
-    font-size: 1em;
+    width: 450px;
+    font-size: 22px;
+    padding: 5px;
+}
+
+.search-jobs {
+    padding-bottom: 10px;
 }
 
 img {
@@ -49,6 +54,8 @@ form {
     font-size: 0px;
     margin-left: 80px;
     margin-top: 20px;
+    float: left;
+    clear: both;
 }
 
 div>a {
@@ -67,7 +74,7 @@ div>a {
 
 .content {
     margin-left: 80px;
-    margin-top: 60px;
+    margin-top: 105px;
     font-size: 22px;
     font-family: sans-serif;
 }
