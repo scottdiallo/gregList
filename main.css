@@ -9,8 +9,6 @@ body {
     width: 100%;
 }
 
-.name-logo {}
-
 ul {
     margin: 0px;
     padding-left: 0px;
@@ -28,9 +26,12 @@ ul li a {
     text-decoration: none;
 }
 
+
+/*
 a:visited {
     color: black;
 }
+*/
 
 .right {
     float: right;
