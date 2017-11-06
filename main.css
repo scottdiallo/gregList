@@ -84,4 +84,11 @@ label>a {
 
 .date-address {
     color: silver;
+    margin-right: 5px
+}
+
+.job-result1,
+.job-result2,
+.job-result3 {
+    padding: 10px 0px;
 }
