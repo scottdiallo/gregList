@@ -42,3 +42,46 @@ input {
     width: 350px;
     font-size: 1em;
 }
+
+img {
+    height: 35px;
+}
+
+form {
+    padding-top: 80px;
+}
+
+.next-prev-page-btn {
+    font-size: 0px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+div>a {
+    text-decoration: none;
+}
+
+.prev,
+.next,
+.page-number {
+    display: inline-block;
+    border: 1px solid silver;
+    padding: 10px 25px;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
+.content {
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+label>a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.date-address {
+    color: silver;
+}
