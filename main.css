@@ -88,3 +88,13 @@ label>a {
 .job-result3 {
     padding: 10px 0px;
 }
+
+.label-input {
+    float: left;
+    margin-right: 20px;
+}
+
+input,
+label {
+    display: block;
+}
