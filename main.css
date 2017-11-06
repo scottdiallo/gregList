@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+}
+
+#nav-bar {
+    background-color: lightgray;
+    height: 45px;
+    position: fixed;
+    width: 100%;
+}
+
+.name-logo {}
+
+ul {
+    margin: 0px;
+    padding-left: 0px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+.right {
+    float: right;
+    padding-right: 25px;
+}
