@@ -26,13 +26,6 @@ ul li a {
     text-decoration: none;
 }
 
-
-/*
-a:visited {
-    color: black;
-}
-*/
-
 .right {
     float: right;
     padding-right: 25px;
@@ -75,6 +68,8 @@ div>a {
 .content {
     margin-left: 80px;
     margin-top: 60px;
+    font-size: 22px;
+    font-family: sans-serif;
 }
 
 label>a {
